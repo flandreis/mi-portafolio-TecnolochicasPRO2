@@ -10,7 +10,7 @@ Incluye las secciones: sobre mí, proyectos, experiencia.
 
 Incluye recursos multimedia.
 
-<a href="https://jovial-zuccutto-f60209.netlify.app/" target="_blank">**Visitalo ahora** 🚀</a>
+<a href="https://lucky-genie-31a387.netlify.app/" target="_blank">**Visitalo ahora** 🚀</a>
 # Secciones (capturas de pantalla)
 
 # Tecnologías
