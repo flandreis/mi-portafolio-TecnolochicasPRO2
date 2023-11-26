@@ -27,5 +27,5 @@ Si estás interesad@ en compartir o conectar para algún proyecto u oportunidad 
 
 <a href="http://www.linkedin.com/in/flandreis1"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
-© 2023 Malinali (Programa Technolochicas PRO)
+© 2023 Andrea Flores
 
